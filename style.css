@@ -1,0 +1,15 @@
+@font-face  {
+    font-family: "MinhaFamily";
+    src: url(/adler.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "RDR2";
+    src: url(/chinese_rocks_rg.otf) format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+ul {
+    font-size: 50px;
+}
